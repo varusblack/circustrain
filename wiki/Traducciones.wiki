@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+#labels traducciones
+
+= Traducciones =
+
+Esta página debe contener las traducciones a inglés de los nombre de clases, propiedades y métodos que vayamos utilizando
+
+
+= Lista de palabras =
+
+action = acción (actuar/contratar)
+bankruptcy = bancarrota
+card = carta
+player = jugador
+show = actuación
+tab = ficha
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
