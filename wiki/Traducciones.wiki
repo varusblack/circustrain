@@ -8,9 +8,9 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
 
 = Lista de palabras =
 
-*action = acción (actuar/contratar)
-*bankruptcy = bancarrota
-*card = carta
-*player = jugador
-*show = actuación
-*tab = ficha
+* action = acción (actuar/contratar)
+* bankruptcy = bancarrota
+* card = carta
+* player = jugador
+* show = actuación
+* tab = ficha
