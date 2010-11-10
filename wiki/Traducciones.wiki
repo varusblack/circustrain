@@ -8,7 +8,7 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
 
 = Lista de palabras =
 
- * Abril = pril
+ * Abril = april
  * Acróbatas = acrobats (AC)
  * Actuación = performance
  * Agosto = august
