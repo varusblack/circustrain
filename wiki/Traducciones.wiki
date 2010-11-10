@@ -12,12 +12,12 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
  * Acróbatas = acrobats (AC)
  * Actuación = performance
  * Agosto = august
- * Baraja = deck
+ * Baraja = pack
  * Caballos = horses (HS)
  * Carta de acción = action card
  * Carta de ciudad = city card
  * Carta de evento = event card
- * Circo en banca rota = bankrup circus
+ * Circo en bancarrota = bankrupt circus
  * Ciudad = city
  * Comprar = buy
  * Contratar = hire
@@ -27,6 +27,7 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
  * Dinero = money
  * Elefantes = elephants (EL)
  * Empate = draw
+ * Evento = event
  * Ficha = counter
  * Grandes felinos = big cats (BC)
  * Hombres bala = human cannonballs (HC)
@@ -35,6 +36,7 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
  * Junio = june
  * Mayo = may
  * Mes = month
+ * Mes actual = current month
  * Monstruos de feria = freak shows (FS)
  * Payasos = clowns (CL)
  * Primer jugador = first player
