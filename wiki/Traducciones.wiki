@@ -12,7 +12,7 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
  * Acróbatas = acrobats (AC)
  * Actuación = performance
  * Agosto = august
- * Baraja = pack
+ * Baraja = deck
  * Caballos = horses (HS)
  * Carta de acción = action card
  * Carta de ciudad = city card
@@ -29,7 +29,7 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
  * Empate = draw
  * Evento = event
  * Ficha = counter
- * Grandes felinos = big feline (BC)
+ * Grandes felinos = big cats (BC)
  * Hombres bala = human cannonballs (HC)
  * Jugador = player
  * Julio = july
@@ -44,7 +44,7 @@ Esta página debe contener las traducciones a inglés de los nombre de clases, p
  * Puntos de victoria = victory points
  * Reputación = reputation value
  * Ronda = round
- * Salario = salary
+ * Salario = wage
  * Semana = week
  * Septiembre = september
  * Tablero = board
