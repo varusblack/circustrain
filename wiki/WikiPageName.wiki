@@ -1,5 +1,5 @@
 = Recopilación de REGLAS BÁSICAS DE PROGRAMACIÓN =
-=== Por Pablo Trinidad dichas en prácticas ===
+=== By Paul Trinity dichas en prácticas ===
 -----------------------------------
 - Clases, mejor que sobren a que falten.
 
