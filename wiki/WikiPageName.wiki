@@ -1,12 +1,8 @@
 = Recopilación de REGLAS BÁSICAS DE PROGRAMACIÓN =
 === By Paul Trinity dichas en prácticas ===
 -----------------------------------
-- Clases, mejor que sobren a que falten.
-
-- Interfaces vácias (sin metodos) son aceptadas, tienen su sentido.
-
-- Implementar una funcionalidad por cada carta. CLASE POR CADA CARTA.
-
-- PRUEBAS UNITARIAS POR CADA CLASE, responsabilidad del programador de la clase.
-
-- Comentarios escuetos, pero breves indicando la funcinalidad de cada metodo. NO en METODOS obvios(getes y setes).
+ # Clases, mejor que sobren a que falten.
+ # Interfaces vácias (sin metodos) son aceptadas, tienen su sentido.
+ # Implementar una funcionalidad por cada carta. CLASE POR CADA CARTA.
+ # PRUEBAS UNITARIAS POR CADA CLASE, responsabilidad del programador de la clase.
+ # Comentarios escuetos, pero breves indicando la funcinalidad de cada metodo. NO en METODOS obvios(getes y setes).
