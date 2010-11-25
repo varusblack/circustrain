@@ -8,3 +8,5 @@
 - Implementar una funcionalidad por cada carta. CLASE POR CADA CARTA.
 
 - PRUEBAS UNITARIAS POR CADA CLASE, responsabilidad del programador de la clase.
+
+- Comentarios escuetos, pero breves indicando la funcinalidad de cada metodo. NO en METODOS obvios(getes y setes).
