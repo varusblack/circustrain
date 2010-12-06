@@ -18,3 +18,13 @@ C,nombre de la ciudad (String),¿Es canada? (Booleano)
 En la segunda, se cargan las vias del tren con el siguiente formato:
 
 R,ciudad de origen (String),ciudad de destino (String)
+
+==Formato de las Performances==
+
+El fichero es _performancecfg.txt_ y es como sigue:
+
+El primer caracter de cada linea es el tipo de perfomance (D: demanda de actuación, B: Circo en bancarrota y V:Puntos de victoria)
+
+===Formato para demanda de actuación===
+
+D,color (G,Y,R),dos semanas (boolean),numero rojo,acrobatas,caballos,payasos,felinos,elefantes,hombres bala,monstruos de feria
