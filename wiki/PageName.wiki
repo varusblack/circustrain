@@ -1,0 +1,20 @@
+#summary Formato de los ficheros de datos
+
+= Introduction =
+
+Describo los formatos de los ficheros usados para cargar los datos en el juego.
+
+
+= Details =
+
+==Formato del tablero==
+
+El fichero _boardcfg.txt_ se divide en dos partes:
+
+En la primera se cargan las ciudades con el siguiente formato:
+
+C,nombre de la ciudad (String),¿Es canada? (Booleano)
+
+En la segunda, se cargan las vias del tren con el siguiente formato:
+
+R,ciudad de origen (String),ciudad de destino (String)
