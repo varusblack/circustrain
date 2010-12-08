@@ -28,3 +28,9 @@ El primer caracter de cada linea es el tipo de perfomance (D: demanda de actuaci
 ===Formato para demanda de actuación===
 
 D,color (G,Y,R),dos semanas (boolean),numero rojo,acrobatas,caballos,payasos,felinos,elefantes,hombres bala,monstruos de feria
+
+===Formato para puntos de victoria===
+V,color (G,Y,R),puntos de victoria
+
+===Formato para circo en bancarrota===
+B,color (G,Y,R),talento 1,talento 2,talento 3 (si el tercero no existe, se deja vacío)
